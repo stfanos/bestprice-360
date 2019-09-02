@@ -56,7 +56,7 @@ bp('addProduct', [products])`;
 bp('debug');
 ```
 
-Will enable loggging.
+Will enable logging.
 
 ### Notes
 - If Skroutz Analytics is deployed, then - for convenience - all needed is inserting the snippet code.
